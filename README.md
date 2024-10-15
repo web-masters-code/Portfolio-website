@@ -12,20 +12,6 @@
 <br/>
 <br/>
 
----
-
-<br/>
-
-## ( Update ): Project Achievement 🏆 
-
-**Dopefolio** has been listed as the **Hottest Frontend Tool of 2021** According to **CSS Tricks** 🥳. Thanks to all of you for supporting this project 🙌
-
-**[Link to the CSS tricks article on Dopefolio](https://css-tricks.com/hottest-front-end-tools-in-2021/#aa-58-dopefolio)**   
-
-<br/>
-----
-## Test the template with different colors on the playground link 🚀
-
 ## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
 
 <div align="center">
@@ -56,10 +42,10 @@ From your command line, first clone Dopefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
+$ git clone https://github.com/web-masters-code/Portfolio-website.git
 
 # Go into the repository
-$ cd dopefolio
+$ cd Portfolio-website
 
 # Remove current origin repository
 $ git remote remove origin
